@@ -94,7 +94,13 @@ Index - Default Page
 ![Index Page](http://apiproducts-001-site1.gtempurl.com/api_products/src_files/api_images/1-Home.png)
 
 
-**More Images For Screen Shot, Visit (Drive)**[https://drive.google.com/drive/folders/14UwBvoEAWU5KhJBt8BzEs-LHqeNAz8cA?usp=drive_link]
+**More Images For Screen Shot, Visit [Drive]**(https://drive.google.com/drive/folders/14UwBvoEAWU5KhJBt8BzEs-LHqeNAz8cA?usp=drive_link)
+
+
+## Database
+
+![ERD_Database](https://github.com/hamedeid20/API_Products_PHP_MVC/blob/master/api_products/src_files/ERD_api_product.png)
+![RS_Database](https://github.com/hamedeid20/API_Products_PHP_MVC/blob/master/api_products/src_files/RS_api_product.png)
 
 
 ## Resources
